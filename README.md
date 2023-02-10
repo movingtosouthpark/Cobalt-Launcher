@@ -1,1 +1,1 @@
-# Cobalt-Client
+# Cobalt-Launcher
